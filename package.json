@@ -1,15 +1,52 @@
 {
-  "name": "cordova-plugin-music-controls",
-  "version": "2.2.0",
-  "description": "Music controls for Cordova apps",
+  "_from": "cordova-plugin-music-controls",
+  "_id": "cordova-plugin-music-controls@2.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-rMKY5brPRycCKo+gpgd+sc8aLO1QmCZ75rhu0QO9Log1lXR8IIdYsYUDGKzFt4bm1GhpPHgb9UUKvHpsKaxOwQ==",
+  "_location": "/cordova-plugin-music-controls",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-music-controls",
+    "name": "cordova-plugin-music-controls",
+    "escapedName": "cordova-plugin-music-controls",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-music-controls/-/cordova-plugin-music-controls-2.2.0.tgz",
+  "_shasum": "0ca78b473c398518a92aaddbdcc5b96767468026",
+  "_spec": "cordova-plugin-music-controls",
+  "_where": "/Users/aprodilles/Documents/apps/FitRadio",
+  "author": {
+    "name": "homerours"
+  },
+  "bugs": {
+    "url": "https://github.com/homerours/cordova-music-controls-plugin/issues"
+  },
+  "bundleDependencies": false,
   "cordova": {
     "id": "cordova-plugin-music-controls",
-    "platforms": ["android", "windows", "ios"]
+    "platforms": [
+      "android",
+      "windows",
+      "ios"
+    ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/homerours/cordova-music-controls-plugin.git"
-  },
+  "deprecated": false,
+  "description": "Music controls for Cordova apps",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "homepage": "https://github.com/homerours/cordova-music-controls-plugin#readme",
   "keywords": [
     "cordova",
     "music",
@@ -22,17 +59,11 @@
     "cordova-android",
     "cordova-windows"
   ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.4.0"
-    }
-  ],
-  "author": "homerours",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/homerours/cordova-music-controls-plugin/issues"
+  "name": "cordova-plugin-music-controls",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homerours/cordova-music-controls-plugin.git"
   },
-  "homepage":
-    "https://github.com/homerours/cordova-music-controls-plugin#readme"
+  "version": "2.2.0"
 }
